@@ -64,24 +64,38 @@ is_veg: Indicates whether the item is vegetarian (Yes/No).
 
 # Analysis and Insights
 
-The analysis of the Swiggy orders dataset provides insights into:
+Customer Preferences
 
-Customer Preferences: Identifying the most ordered food categories and top-selling restaurants.
+Identifying the most ordered food categories and top-selling restaurants to understand what customers prefer.
 
-Delivery Performance: Assessing on-time vs. delayed deliveries to evaluate delivery efficiency.
+Delivery Performance
 
-Restaurant Performance: Analyzing the impact of factors like cuisine type, price range, and customer ratings on restaurant orders.
+Assessing on-time vs. delayed deliveries to evaluate delivery efficiency and customer satisfaction.
 
-Peak Order Month and Year: Identifying the months and years with the highest order volume to determine revenue generation trends over time.
+Restaurant Performance
 
-Order Value Trends: Understanding spending patterns and how they vary across different customer segments.
+Analyzing the impact of factors like cuisine type, price range, and customer ratings on restaurant orders.
 
-Impact of Rain Mode: Evaluating how rainy weather conditions affect order frequency, delivery times, and customer preferences. Orders placed during rain mode may have longer delivery times and different food preferences compared to normal orders.
+Peak Order Month and Year
 
-Seasonal Trends: Understanding how food delivery demand fluctuates across different seasons and how external factors such as festivals or weather conditions impact order volumes.
+Identifying the months and years with the highest order volume to determine revenue generation trends over time.
 
-Restaurant-Specific Trends: Examining how different restaurants perform in terms of order volume, revenue, and customer retention over time.
+Order Value Trends
 
-Future Demand Forecasting: Predicting potential surges in order volumes based on past trends, weather conditions, and seasonal influences.
+Understanding spending patterns and how they vary across different customer segments.
 
+Impact of Rain Mode
 
+Evaluating how rainy weather conditions affect order frequency, delivery times, and customer preferences. Orders placed during rain mode may have longer delivery times and different food preferences compared to normal orders.
+
+Seasonal Trends
+
+Understanding how food delivery demand fluctuates across different seasons and how external factors such as festivals or weather conditions impact order volumes.
+
+Restaurant-Specific Trends
+
+Examining how different restaurants perform in terms of order volume, revenue, and customer retention over time.
+
+Future Demand Forecasting
+
+Predicting potential surges in order volumes based on past trends, weather conditions, and seasonal influences.
