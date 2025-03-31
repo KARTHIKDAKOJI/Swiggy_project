@@ -114,3 +114,30 @@ SQL: Used for data extraction, transformation, and querying.
 SQL Queries: Includes DDL (Data Definition Language), DML (Data Manipulation Language), Aggregations, Joins, Subqueries, Window Functions, and CTEs (Common Table Expressions).
 
 Excel: Used for data cleaning and preliminary analysis.
+
+
+
+
+# Data Optimization and Future Scope
+
+To make the dataset more efficient and useful, several improvements can be made:
+
+Improving Data Storage
+
+Organizing the data better for quick access and analysis.
+
+Handling More Data in the Future
+
+Ensuring the dataset can grow easily without major changes.
+
+Adding More Information Sources
+
+Including data from customer reviews, weather reports, and live traffic updates to get a more detailed picture.
+
+Predicting Future Orders
+
+Using past data to estimate when people will order the most, how long deliveries will take, and what food items will be popular.
+
+Customizing Recommendations
+
+Suggesting food items to customers based on what they’ve ordered before and their preferences.
