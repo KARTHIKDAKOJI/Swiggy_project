@@ -62,6 +62,8 @@ category: The category of food (e.g., Fast Food, Beverages, Desserts, etc.).
 is_veg: Indicates whether the item is vegetarian (Yes/No).
 
 
+
+
 # Analysis and Insights
 
 Customer Preferences
@@ -99,3 +101,16 @@ Examining how different restaurants perform in terms of order volume, revenue, a
 Future Demand Forecasting
 
 Predicting potential surges in order volumes based on past trends, weather conditions, and seasonal influences.
+
+
+
+
+# Technologies Used
+
+The project utilizes various technologies and tools to process and analyze the dataset effectively:
+
+SQL: Used for data extraction, transformation, and querying.
+
+SQL Queries: Includes DDL (Data Definition Language), DML (Data Manipulation Language), Aggregations, Joins, Subqueries, Window Functions, and CTEs (Common Table Expressions).
+
+Excel: Used for data cleaning and preliminary analysis.
